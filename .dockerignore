@@ -1,0 +1,8 @@
+*.tar.gz
+*.deb
+*.log
+tmp/
+.git
+.dockerignore
+Dockerfile
+docker-compose.yaml
